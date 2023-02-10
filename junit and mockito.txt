@@ -1,0 +1,21 @@
+stub--- dummy implementation of a interface 
+mocks
+System under Test SUT 
+Dependency
+
+1)mock(the class you want to mock ex: todoservice.class)
+creates the mock of the class we want. or can be created by @mock annotation
+
+2)create the return that is expected from the mock method
+
+3)when(this method is called).thenReturn(this)
+
+4)Asserts methods
+
+
+anyInt() ---> argument matcher
+
+
+@RunWith(MockitoJUnitRunner.class)
+@injectMock
+injects all the mock methods that the class is dependent on.

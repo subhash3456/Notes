@@ -1,0 +1,30 @@
+swagger metadata gives information about api's
+
+Used for API documentation
+Adding details as annotation to API's
+
+/v2/api-docs
+
+swagger UI 
+swagger-ui.html 
+returns the response in html
+
+
+
+swagger annotation
+@Apioperation   value = short descrioption, notes = description , 
+response = type of response the api returns
+
+
+
+
+
+
+
+
+Postman -- RestAPI client
+
+
+Logging in spring 
+
+LoggerFactory class and its methods(getlogger)

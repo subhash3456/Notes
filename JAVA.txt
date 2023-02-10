@@ -1,0 +1,12 @@
+What is parse in Java? 
+There are many Java classes that have the parse() method. Usually the parse() method receives some string as input, 
+"extracts" the necessary information from it and converts it into an object of the calling class.
+
+In a workspace you define projects that reference your disk resources. 
+You don't have to move source files into the workspace. And projects don't import or copy source files into the workspace. 
+Instead projects point to any folder or files on your disk.
+
+In GitHub Desktop, click the Fetch origin button. This will check the GitHub repository to see if any changes have been made remotely. 
+In GitHub Desktop, click the Pull origin button to sync remote changes to your local files.
+
+Click Push origin to push your local changes to the remote repository.
