@@ -19,3 +19,20 @@ anyInt() ---> argument matcher
 @RunWith(MockitoJUnitRunner.class)
 @injectMock
 injects all the mock methods that the class is dependent on.
+
+
+
+
+assertsEquals(expected,actual), assert false
+assertArrayEquals()
+
+
+@Test 
+
+method should be public and void
+
+@Test(expection=----)
+
+Parameterized test
+
+ 

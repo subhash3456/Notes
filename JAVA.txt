@@ -10,3 +10,18 @@ In GitHub Desktop, click the Fetch origin button. This will check the GitHub rep
 In GitHub Desktop, click the Pull origin button to sync remote changes to your local files.
 
 Click Push origin to push your local changes to the remote repository.
+
+
+Business delegate is a Java EE design pattern. This pattern is directed towards 
+reducing the coupling in between business services and the connected presentation 
+tier, and to hide the implementation details of services (including lookup and 
+accessibility of EJB architecture).
+
+
+
+
+In other words, Interface fields are public, static and final by default, and the methods are public and abstract.
+
+interface in java
+
+https://static.javatpoint.com/images/interface.png
